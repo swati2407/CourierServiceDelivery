@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwgrMrhfoANcWIxWA/WZMd6HhR9OL8m9JlPpHcmIbHqQ79j44ZFoQ35XNoLZ+MEI+IQ5zmEihuvCQAwVk3+2ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Self Study\\Case Study On Courier Service\\Git\\CourierServiceDelivery\\CourierServiceDeliveryCostEstimation\\CourierServiceDeliveryCostEstimation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdinesh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sdinesh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\sdinesh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sdinesh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\sdinesh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
