@@ -11,5 +11,6 @@ namespace CourierServiceDeliveryCostEstimation.Model
         public int NoOfVehicles { get; set; }
         public double MaxSpeed { get; set; }
         public double MaxWeight { get; set; }
+
     }
 }
