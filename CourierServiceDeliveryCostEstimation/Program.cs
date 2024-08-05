@@ -66,12 +66,13 @@ namespace CourierServiceDeliveryCostEstimation
 
                 var rateList1 = estimatedTimeService.CalculateProductEstimatedDeliveryTime(products, vehicles, rateList);
 
-                Console.WriteLine("PkgId    discount    totalCost");
+                Console.WriteLine("PkgId    Discount    TotalCost EstimatedDeliveryTime");
                 foreach (var item in rateList1)
                 {
                     Console.WriteLine($"{item.Package_Id}   {item.DiscountAmount}   {item.TotalPrice} {item.EstimatedDeliveryTime}");
                 }
                 Console.WriteLine("Press exit to come out");
+                Console.ReadLine();
             }
             catch (Exception ex)
             {

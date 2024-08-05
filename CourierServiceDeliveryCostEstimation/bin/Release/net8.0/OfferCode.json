@@ -1,0 +1,39 @@
+[
+  {
+    "OfferCode": "OFR001",
+    "DistanceRange": {
+      "Min": 0,
+      "Max": 200
+    },
+    "WeightRange": {
+      "Min": 70,
+      "Max": 200
+    },
+    "DiscountPercentage": 10
+  },
+  {
+    "OfferCode": "OFR002",
+    "DistanceRange": {
+      "Min": 50,
+      "Max": 150
+    },
+    "WeightRange": {
+      "Min": 100,
+      "Max": 250
+    },
+    "DiscountPercentage": 7
+  },
+  {
+    "OfferCode": "OFR003",
+    "DistanceRange": {
+      "Min": 50,
+      "Max": 250
+    },
+    "WeightRange": {
+      "Min": 10,
+      "Max": 150
+    },
+    "DiscountPercentage": 5
+  }
+
+]

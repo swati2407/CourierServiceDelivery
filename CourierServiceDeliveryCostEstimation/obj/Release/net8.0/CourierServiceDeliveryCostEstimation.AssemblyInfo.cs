@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourierServiceDeliveryCostEstimation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77da83b7116e5b26d5d17a099f263a36d4721b22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ff09085cefd10fc6c9345d7fd130c68728ec64")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourierServiceDeliveryCostEstimation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourierServiceDeliveryCostEstimation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
